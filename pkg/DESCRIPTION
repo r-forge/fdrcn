@@ -1,0 +1,11 @@
+Package: fdrcn
+Type: Package
+Title: False discovery rate estimation for copy number data.
+Version: 1.0
+Date: 2011-08-09
+Author: Nancy R. Zhang
+Maintainer: Nancy R. Zhang <nzhang@stanford.edu>
+Description: Please see Efron and Zhang, 2011, False discovery rates and copy number variation, Biometrika V. 98 pp 251-271.
+License: What license is it under?
+LazyLoad: yes
+Depends: locfdr
